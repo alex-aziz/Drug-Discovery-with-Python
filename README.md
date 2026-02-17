@@ -11,7 +11,7 @@ The course content is aimed at undergraduate students but it is expected that us
 
 The sessions were prepared by a summer student and Manchester Metropolitan University and has received funding from the AI for Chemistry: AIchemy Hub (EPSRC grant EP/Y028775/1 and EP/Y028759/1).
 
-The work is ongoing, especially the final sessions on BioActivity and AutoDock Vina. The intention is to develop the content into a computational chemistry course on Drug Discovery that can be delivered at Manchester Met and beyond. Therefore, contributions to the learning resource are welcome.
+The work is ongoing, especially the final sessions on BioActivity and AutoDock Vina. The intention is to develop the content into a computational chemistry course on Drug Discovery that can be delivered at Manchester Met. and beyond. Therefore, contributions to the learning resource are welcome.
 
 ## Authors
 - Mr Zhaohui Jiang
